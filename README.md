@@ -46,7 +46,7 @@ Cuenta con un diseño oscuro (Dark Mode nativo), toques en colores neón metáli
 
 ## 🛠️ Instalación y Uso
 
-Este es un proyecto estático (Vanilla), por lo que no necesitas instalar dependencias complicadas ni usar la terminal si no quieres.
+Hola mundo
 
 1. **Clona el repositorio:**
    ```bash
