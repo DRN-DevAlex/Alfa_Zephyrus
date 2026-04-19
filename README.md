@@ -46,7 +46,7 @@ Cuenta con un diseño oscuro (Dark Mode nativo), toques en colores neón metáli
 
 ## 🛠️ Instalación y Uso
 
-Hola mundo
+Hola mundoooooooo
 
 1. **Clona el repositorio:**
    ```bash
